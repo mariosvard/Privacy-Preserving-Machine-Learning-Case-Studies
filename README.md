@@ -94,11 +94,13 @@ kaggle-notebooks
 Clone the repository:
 
 git clone https://github.com/mariosvard/kaggle-notebooks.git
+
 cd kaggle-notebooks
 
 Install dependencies:
 
 git clone https://github.com/mariosvard/kaggle-notebooks.git
+
 cd kaggle-notebooks
 
 Run Jupyter Notebook:
@@ -107,24 +109,31 @@ jupyter notebook
 
 --
 
-## Data
+
+Data
 
 Datasets are not included in this repository due to file size limitations.
 
-Please download the datasets from their original sources (for example Kaggle) and place them in the corresponding project folders.
+Please download the datasets from their original sources (for example Kaggle) and place them in the corresponding project folders before running the notebooks.
 
----
+Notes
 
-## Notes
+This repository is intended as a data science portfolio demonstrating different machine learning workflows and techniques.
 
-Each project contains:
-- a Jupyter notebook
-- a project-specific README
-- figures showing key results
-- configuration files where needed
+Each project focuses on a different problem domain while following similar steps:
 
----
+Data loading
 
-## License
+Exploratory data analysis
 
-This repository is for educational and portfolio purposes.
+Data preprocessing
+
+Model training
+
+Evaluation
+
+Visualization of results
+
+License
+
+This repository is provided for educational and portfolio purposes.
