@@ -41,3 +41,16 @@ Project folder:
 
 projects/smart-home-cae
 
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow / Keras
+- Jupyter Notebook
+- Matplotlib
+- Seaborn
+
+---
