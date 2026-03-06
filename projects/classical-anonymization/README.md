@@ -1,6 +1,5 @@
-# Data Science Projects – Kaggle Notebooks
+Classical Data Anonymization
 
-**Author:** Marios Vardalachakis
+This project explores classical data anonymization techniques used to protect sensitive information in structured datasets while preserving their analytical value.
 
-This repository contains machine learning and data science projects adapted from Kaggle notebooks.  
-The projects explore topics such as data privacy, fraud detection, and smart home data analysis.
+The notebook demonstrates how privacy-preserving transformations can reduce the risk of re-identifying individuals in a dataset.
