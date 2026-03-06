@@ -46,7 +46,7 @@ The anonymization process modifies the distribution of certain attributes while 
 
 Example comparison between the **original data distribution** and the **anonymized dataset**:
 
-![Anonymization Comparison](figures/anonymization_comparison.png)
+![Anonymization Comparison](Anonymization_comparison.png)
 
 ---
 
