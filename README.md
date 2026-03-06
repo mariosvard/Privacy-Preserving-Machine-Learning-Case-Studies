@@ -64,7 +64,7 @@ projects/privacy-scenarios-fraud-detection
 
 Visualization comparing real data with GAN-generated synthetic samples using PCA.
 
-![GAN PCA Projection](projects/privacy-scenarios-fraud-detection/figures/pca_projection.png)
+![GAN PCA Projection](projects/privacy-scenarios-fraud-detection/real_vs_synthetic.png)
 
 ## Smart Home Data Anonymization using Autoencoders
 
@@ -164,6 +164,7 @@ Please download the datasets from their original sources and place them in the c
 # Notes
 
 This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+
 
 
 
