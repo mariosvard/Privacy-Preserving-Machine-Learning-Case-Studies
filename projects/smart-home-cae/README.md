@@ -96,3 +96,32 @@ The compressed representation can help preserve useful patterns while reducing t
 
 The full implementation is provided in:
 
+The notebook includes:
+
+- data preprocessing
+- sliding window generation
+- model architecture
+- model training
+- reconstruction analysis
+
+---
+
+## Technologies Used
+
+The project was implemented using:
+
+- Python
+- PyTorch
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## Notes
+
+This project demonstrates how **deep learning models such as convolutional autoencoders can be used for privacy-preserving analysis of smart home time-series data**.****
+
+
