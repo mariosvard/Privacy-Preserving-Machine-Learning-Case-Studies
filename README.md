@@ -68,7 +68,7 @@ projects/privacy-scenarios-fraud-detection
 Visualization comparing real data with GAN-generated synthetic samples using PCA.
 
 <p align="center">
-  <img src="projects/privacy-scenarios-fraud-detection/real_vs_synthetic.png" width="600"/>
+  <img src="projects/fraud-detection/real_vs_synthetic.png" width="600"/>
 </p>
 
 
@@ -170,6 +170,7 @@ Please download the datasets from their original sources and place them in the c
 # Notes
 
 This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+
 
 
 
