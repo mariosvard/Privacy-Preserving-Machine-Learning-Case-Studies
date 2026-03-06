@@ -31,7 +31,9 @@ The project compares different anonymization strategies and evaluates their effe
 
 ### Example Result
 
-![Utility vs Retention](projects/classical-anonymization/Anonymization_comparison.png)
+<p align="center">
+  <img src="projects/classical-anonymization/Anonymization_comparison.png" width="600"/>
+</p>
 
 Project folder:
 
@@ -164,6 +166,7 @@ Please download the datasets from their original sources and place them in the c
 # Notes
 
 This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+
 
 
 
