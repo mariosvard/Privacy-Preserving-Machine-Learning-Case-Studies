@@ -56,18 +56,33 @@ projects/smart-home-cae
 ---
 
 kaggle-notebooks
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── environment.yml
+
 ├── .gitignore
+
 │
+
 ├── docs
+
 │ ├── methodology.md
+
 │ └── project_overview.md
+
 │
+
 └── projects
+
 ├── classical-anonymization
+
 ├── fraud-detection
+
 └── smart-home-cae
+
 
