@@ -25,9 +25,11 @@ This project aims to introduce traditional anonymization techniques used to ensu
 
 The techniques used in this project include:
 
--k-Anonymity
--l-Diversity
--t-Closeness
+- k-Anonymity
+
+- l-Diversity
+
+- t-Closeness
 
 The project compares different anonymization strategies and evaluates their effect on data utility and retention.
 
@@ -174,6 +176,7 @@ Please download the datasets from their original sources and place them in the c
 # Notes
 
 This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+
 
 
 
