@@ -3,15 +3,16 @@
 
 Author: Marios Vardalachakis
 
-This repository contains a collection of data science and machine learning notebooks focused on privacy-preserving techniques and anomaly detection.
+This repository holds a variety of data science and machine learning notebooks, particularly focused on privacy-preserving techniques, as well as anomaly detection.
 
-The projects explore different approaches to protecting sensitive data while maintaining useful patterns for analysis.
+The notebooks in this repository introduce various techniques used to ensure the privacy of sensitive information while still being informative enough to perform analysis on it.
 
-Topics covered include:
+The topics covered in this repository are:
 
 - classical data anonymization
 - privacy-preserving fraud detection
-- deep learning for smart home data anonymization
+- deep learning-based smart home data anonymization
+
 
 ---
 
@@ -19,13 +20,14 @@ Topics covered include:
 
 ## Classical Data Anonymization
 
-This project explores traditional anonymization techniques used to protect sensitive information in structured datasets.
 
-Techniques explored include:
+This project aims to introduce traditional anonymization techniques used to ensure the privacy of sensitive information within a structured dataset.
 
-- k-Anonymity
-- l-Diversity
-- t-Closeness
+The techniques used in this project include:
+
+-k-Anonymity
+-l-Diversity
+-t-Closeness
 
 The project compares different anonymization strategies and evaluates their effect on data utility and retention.
 
@@ -172,6 +174,7 @@ Please download the datasets from their original sources and place them in the c
 # Notes
 
 This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+
 
 
 
