@@ -1,0 +1,8 @@
+
+projects/fraud-detection/creditcard.xls
+projects/smart-home-cae/smart_home.csv
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
