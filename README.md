@@ -122,18 +122,19 @@ This repository is intended as a data science portfolio demonstrating different 
 
 Each project focuses on a different problem domain while following similar steps:
 
-Data loading
+1)Data loading
 
-Exploratory data analysis
+2)Exploratory data analysis
 
-Data preprocessing
+3)Data preprocessing
 
-Model training
+4)Model training
 
-Evaluation
+5)Evaluation
 
-Visualization of results
+6)Visualization of results
 
 License
 
 This repository is provided for educational and portfolio purposes.
+
