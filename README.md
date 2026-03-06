@@ -93,7 +93,38 @@ kaggle-notebooks
 
 Clone the repository:
 
+git clone https://github.com/mariosvard/kaggle-notebooks.git
+cd kaggle-notebooks
+
+Install dependencies:
 
 git clone https://github.com/mariosvard/kaggle-notebooks.git
-
 cd kaggle-notebooks
+
+Run Jupyter Notebook:
+jupyter notebook
+
+
+--
+
+## Data
+
+Datasets are not included in this repository due to file size limitations.
+
+Please download the datasets from their original sources (for example Kaggle) and place them in the corresponding project folders.
+
+---
+
+## Notes
+
+Each project contains:
+- a Jupyter notebook
+- a project-specific README
+- figures showing key results
+- configuration files where needed
+
+---
+
+## License
+
+This repository is for educational and portfolio purposes.
