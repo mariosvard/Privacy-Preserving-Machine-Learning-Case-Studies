@@ -118,64 +118,72 @@ kaggle-notebooks
     └── smart-home-cae
 ```
 
-Each project folder contains:
+Each project folder contains the following:
 
-- a Jupyter notebook
-- a project-specific README
+- A Jupyter Notebook
+- A README for each project
+- Visualizations of the results
 - visualizations of results
-- configuration files where needed
+- Configuration files, if necessary
+
 
 ---
 
 # Technologies Used
 
-The projects in this repository use the following tools:
+
+
+The projects included in this repository use the following:
+
 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
+- Scikit-Learn
 - PyTorch
 - Matplotlib
 - Jupyter Notebook
-- Differential Privacy (Opacus)
+- Differential Privacy
+
 
 ---
 
-# Installation
+# To install the repository, clone the repository using the following command:
 
-Clone the repository:
 
 ```
 git clone https://github.com/mariosvard/kaggle-notebooks.git
 cd kaggle-notebooks
 ```
 
-Install dependencies:
+To install the dependencies, use the following command:
+
 
 ```
 pip install -r requirements.txt
-```
 
-Run Jupyter Notebook:
+```
+To run the Jupyter Notebook, use the following command:
+
 
 ```
 jupyter notebook
+
 ```
 
 ---
 
 # Data
 
-Datasets are not included in this repository due to file size limitations.
+The datasets used for the projects in this repository cannot be included due to the file size restrictions.
 
-Please download the datasets from their original sources and place them in the corresponding project folders before running the notebooks.
+Please download the datasets from the original sources and place the datasets inside the appropriate project folders.
 
 ---
 
 # Notes
 
-This repository is intended as a data science portfolio demonstrating privacy-preserving machine learning techniques applied to different datasets.
+The purpose of this repository is to serve as a portfolio for my data science projects, showing the application of privacy-preserving machine learning approaches to various datasets.
 
 
 
