@@ -21,8 +21,8 @@ The goal of this project is to demonstrate how anonymization methods can:
 The project focuses on traditional anonymization approaches, including:
 
 - **k-anonymity**
-- **data generalization**
-- **suppression**
+- **i-diversity**
+- **t-closeness**
 
 These techniques are commonly used in privacy-preserving data publishing and data protection research.
 
