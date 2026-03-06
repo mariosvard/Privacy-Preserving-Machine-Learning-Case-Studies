@@ -42,11 +42,12 @@ The notebook follows a typical anonymization pipeline:
 
 ## Results
 
-The anonymization process modifies the distribution of certain attributes while preserving the overall structure of the dataset.
+The following visualization compares the **utility score** and **retention rate** of different anonymization techniques.
 
-Example comparison between the **original data distribution** and the **anonymized dataset**:
 
-![Anonymization Comparison](Anonymization_comparison.png)
+![Utility Vs Retention](Anonymization_comparison.png)
+
+The comparison shows that different anonymization techniques maintain high data utility while protecting sensitive information.
 
 ---
 
