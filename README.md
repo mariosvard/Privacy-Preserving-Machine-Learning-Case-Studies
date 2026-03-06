@@ -26,3 +26,18 @@ Methods used:
 - Model evaluation using ROC curves and confusion matrices
 
 Project folder: projects/fraud-detection
+
+---
+
+### Smart Home CAE
+Deep learning approach for privacy-preserving smart home data using a convolutional autoencoder.
+
+Topics:
+- deep learning
+- anomaly detection
+- reconstruction error analysis
+
+Project folder:
+
+projects/smart-home-cae
+
