@@ -54,7 +54,7 @@ projects/smart-home-cae
 - Seaborn
 
 ---
-
+## Repository Structure
 kaggle-notebooks
 
 │
@@ -84,5 +84,6 @@ kaggle-notebooks
 ├── fraud-detection
 
 └── smart-home-cae
+
 
 
