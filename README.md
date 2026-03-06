@@ -13,6 +13,5 @@ Main topics:
 - i-diversity
 - t-closeness
 
-Project folder:
+Project folder: projects/classical-anonymization
 
-projects/classical-anonymization
