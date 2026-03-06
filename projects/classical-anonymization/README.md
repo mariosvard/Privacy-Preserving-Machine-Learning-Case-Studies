@@ -50,7 +50,7 @@ The following visualization compares the **utility score** and **retention rate*
 
 These techniques are widely used in privacy-preserving data publishing.
 
-![Utility vs Retention](/Anonymization_comparison.png)
+![Utility vs Retention](Anonymization_comparison.png)
 
 ### Interpretation
 
