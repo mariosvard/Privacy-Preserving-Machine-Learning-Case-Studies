@@ -18,14 +18,20 @@ The goal of this project is to demonstrate how anonymization methods can:
 
 ## Techniques Explored
 
-The project focuses on traditional anonymization approaches, including:
+The project focuses on traditional anonymization approaches, including:Key observations:
+
+- **k-Anonymity** provides a strong baseline for protecting quasi-identifiers while keeping the dataset usable.
+- **l-Diversity** improves protection against attribute disclosure by ensuring diversity within sensitive attributes.
+- **t-Closeness** further strengthens privacy guarantees by preserving the distribution of sensitive attributes.
+
+Overall, the comparison indicates that classical anonymization techniques can effectively protect sensitive information while maintaining the analytical value of the data.
 
 - **k-anonymity**
 - **i-diversity**
 - **t-closeness**
 
-These techniques are commonly used in privacy-preserving data publishing and data protection research.These techniques are widely used in privacy-preserving data publishing.
-
+These techniques are commonly used in privacy-preserving data publishing and data protection research.
+These techniques are widely used in privacy-preserving data publishing.
 
 ---
 
