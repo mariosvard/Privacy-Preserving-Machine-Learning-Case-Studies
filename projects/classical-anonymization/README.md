@@ -24,7 +24,8 @@ The project focuses on traditional anonymization approaches, including:
 - **i-diversity**
 - **t-closeness**
 
-These techniques are commonly used in privacy-preserving data publishing and data protection research.
+These techniques are commonly used in privacy-preserving data publishing and data protection research.These techniques are widely used in privacy-preserving data publishing.
+
 
 ---
 
