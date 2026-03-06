@@ -15,3 +15,14 @@ Main topics:
 
 Project folder: projects/classical-anonymization
 
+---
+
+### Fraud Detection
+Machine learning models for detecting fraudulent financial transactions.
+
+Methods used:
+- Logistic Regression
+- Random Forest
+- Model evaluation using ROC curves and confusion matrices
+
+Project folder: projects/fraud-detection
