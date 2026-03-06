@@ -87,3 +87,13 @@ kaggle-notebooks
 
 
 
+--
+
+## Installation
+
+Clone the repository:
+
+
+git clone https://github.com/mariosvard/kaggle-notebooks.git
+
+cd kaggle-notebooks
