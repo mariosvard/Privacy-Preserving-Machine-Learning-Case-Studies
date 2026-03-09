@@ -76,7 +76,7 @@ This approach is useful in environments where data cannot be centrally stored.
 
 Visualization of real data and GAN-generated synthetic samples.
 
-![GAN PCA Projection](real_vs_synthetic.png)
+<div align="center"> <img src="real_vs_synthetic.png" width="500"/> </div>
 
 ---
 
@@ -130,6 +130,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
