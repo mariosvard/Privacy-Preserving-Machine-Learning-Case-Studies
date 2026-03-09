@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 The experiments use the Credit Card Fraud Detection dataset, which can be found on the Kaggle platform.
 
-**Credit Card Fraud Detection Dataset**
+**Credit Card Fraud Detection Dataset**(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)**
 
 This dataset contains anonymized credit card transactions from European cardholders.
 
@@ -147,6 +147,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
