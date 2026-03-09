@@ -89,7 +89,6 @@ The model is trained with the help of Differential Privacy with the help of the 
 Differential Privacy introduces noise into the entire training process so that no single transaction is identifiable.
 
 
-
 **Key Properties**
 
 - Individual transaction records are protected
@@ -110,13 +109,12 @@ In federated learning:
 - raw data is not transmitted
 - only updates are transmitted
 
-
 **Workflow**
 
-
-
-
-
+-The dataset is split into multiple clients
+-Each client is trained individually
+- updates are aggregated
+- The global model is updated
 
 
 ---
@@ -179,6 +177,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
