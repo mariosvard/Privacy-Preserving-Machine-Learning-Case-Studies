@@ -89,7 +89,7 @@ The model is trained with the help of Differential Privacy with the help of the 
 
 Differential Privacy introduces noise into the entire training process so that no single transaction is identifiable.
 
----
+
 
 **Key Properties**
 
@@ -99,7 +99,7 @@ Differential Privacy introduces noise into the entire training process so that n
 
 The performance of the models with and without Differential Privacy is compared in this project to assess the privacy-utility tradeoff.
 
-
+---
 
 ### Federated Learning Simulation
 
@@ -167,6 +167,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
