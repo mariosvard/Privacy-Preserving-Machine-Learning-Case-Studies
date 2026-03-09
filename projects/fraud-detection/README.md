@@ -13,13 +13,13 @@ These technologies allow machine learning models to be trained without compromis
 
 ## Objective
 
-The objectives of this project are:
+The main objectives of this project are:
 
-- analyze fraudulent transaction data
-- generate synthetic data using GANs
-- train models using differential privacy
-- simulate federated learning training rounds
-- evaluate the impact of privacy mechanisms on model performance
+- To analyze financial transaction data, usually used in fraud detection
+- To generate synthetic financial transaction data using GANs
+- To train machine learning models using Differential Privacy
+- To simulate Federated Learning rounds
+- To examine how these techniques in privacy affect model performance
 
 ---
 
@@ -133,6 +133,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
