@@ -79,7 +79,7 @@ As a result of the competition between the two models, the generator is trained 
 
 - **Addresses class imbalance in fraud detection datasets**
 
-- **Discriminator**
+- **Enables data sharing without exposing real financial records**
 ---
 
 ### Differential Privacy
@@ -156,6 +156,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
