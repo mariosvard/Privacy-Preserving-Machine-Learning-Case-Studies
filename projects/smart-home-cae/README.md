@@ -88,7 +88,12 @@ The following visualization shows the distribution of reconstruction errors betw
 
 Low reconstruction error indicates that the model successfully learns the structure of the time-series data.
 
-The compressed representation can help preserve useful patterns while reducing the exposure of sensitive raw data.
+The compressed latent representation helps: 
+
+- preserve important behavioral patterns
+- reduce exposure of sensitive raw smart home data
+- support privacy-preserving analytics
+
 
 ---
 
@@ -123,6 +128,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **deep learning models such as convolutional autoencoders can be used for privacy-preserving analysis of smart home time-series data**.****
+
 
 
 
