@@ -143,7 +143,7 @@ Comparison of the accuracy of the proposed model with and without Differential P
 Accuracy plot over multiple federated learning rounds.
 
 <div align="center"> <img src="Federated_Learning.png" width="500"/> </div>
----
+
 
 ## Notebook
 
@@ -179,6 +179,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
