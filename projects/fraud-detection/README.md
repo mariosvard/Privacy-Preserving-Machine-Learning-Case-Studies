@@ -8,7 +8,6 @@ This project aims to examine techniques in fraud detection, as well as technique
 
 These technologies allow machine learning models to be trained without compromising financial data.
 
----
 
 ## Objective
 
@@ -184,6 +183,7 @@ The proposed project demonstrates how to effectively implement various privacy-p
 - Federated Learning
 
 it is possible to develop effective fraud detection models with guaranteed data privacy.
+
 
 
 
