@@ -19,7 +19,6 @@ The main objectives of this project are:
 - To simulate Federated Learning rounds
 - To examine how these techniques in privacy affect model performance
 
----
 
 ## Dataset
 
@@ -54,7 +53,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 After downloading, place the data within the project directory before running the notebook.
 
----
 
 ## Methods Explored
 
@@ -96,7 +94,7 @@ Differential Privacy introduces noise into the entire training process so that n
 
 The performance of the models with and without Differential Privacy is compared in this project to assess the privacy-utility tradeoff.
 
----
+
 
 ### Federated Learning Simulation
 
@@ -117,7 +115,6 @@ In federated learning:
 
 This is similar to how financial systems are designed in the real world. Data is not sharable among institutions.
 
----
 
 ## Visualizations
 
@@ -157,8 +154,6 @@ The notebook includes:
 - Differential Privacy-based training
 - Federated learning simulation
 
----
-
 ## Technologies Used
 
 The project was built with the following technologies:
@@ -172,8 +167,6 @@ The project was built with the following technologies:
 - Scikit-learn
 - Jupyter Notebook
 
----
-
 ## Conclusion
 
 The proposed project demonstrates how to effectively implement various privacy-preserving machine learning approaches in fraud detection scenarios with sensitive financial information.With the help of various machine learning approaches such as:
@@ -183,6 +176,7 @@ The proposed project demonstrates how to effectively implement various privacy-p
 - Federated Learning
 
 it is possible to develop effective fraud detection models with guaranteed data privacy.
+
 
 
 
