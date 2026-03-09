@@ -25,13 +25,21 @@ The main objectives of this project are:
 
 ## Dataset
 
-The dataset contains anonymized financial transaction records used for fraud detection.
+The experiments use the Credit Card Fraud Detection dataset, which can be found on the Kaggle platform.
 
-Typical attributes include:
+**Credit Card Fraud Detection Dataset**
+
+This dataset contains anonymized credit card transactions from European cardholders.
+
+**Dataset Characteristics**
+
 
 - transaction features
 - anonymized numerical variables
 - fraud labels (fraud / non-fraud)
+
+**Typical Attributes**
+
 
 Due to file size limitations, the dataset is **not included in this repository**.
 
@@ -133,6 +141,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
