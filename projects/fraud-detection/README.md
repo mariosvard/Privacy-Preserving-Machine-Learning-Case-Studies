@@ -33,21 +33,27 @@ This dataset contains anonymized credit card transactions from European cardhold
 
 **Dataset Characteristics**
 
-
 - transaction features
 - anonymized numerical variables
 - fraud labels (fraud / non-fraud)
 
 **Typical Attributes**
 
+The dataset includes:
 
+- anonymized numerical transaction features (V1–V28)
+- time of transaction
+- amount of transaction
+- label for fraudulent transactions (0 for legitimate, 1 for fraud)
+
+  
 Due to file size limitations, the dataset is **not included in this repository**.
 
 You can download it from:
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Place the dataset in the project folder before running the notebook.
+After downloading, place the data within the project directory before running the notebook.
 
 ---
 
@@ -141,6 +147,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
