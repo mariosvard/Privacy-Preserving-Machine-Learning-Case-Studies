@@ -122,24 +122,18 @@ This is similar to how financial systems are designed in the real world. Data is
 
 ## Visualizations
 
-### GAN Synthetic Data vs Real Data (PCA Projection)
 
-Visualization of real data and GAN-generated synthetic samples.
 
 <div align="center"> <img src="real_vs_synthetic.png" width="500"/> </div>
 
 ---
 
-### Differential Privacy Training Performance
 
-Comparison of model accuracy with and without differential privacy.
 
 <div align="center"> <img src="differential_privacy.png" width="500"/> </div>
 ---
 
-### Federated Learning Training Progress
 
-Training accuracy across multiple federated learning rounds.
 
 <div align="center"> <img src="Federated_Learning.png" width="500"/> </div>
 ---
@@ -178,6 +172,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
