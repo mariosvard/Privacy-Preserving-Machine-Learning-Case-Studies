@@ -82,7 +82,7 @@ The notebook performs the following steps:
 
 The following visualization shows the distribution of reconstruction errors between the original and reconstructed sequences.
 
-![Reconstruction Error](figures/reconstruction_error.png)
+<div align="center"> <img src="reconstruction_error.png" width="500"> </div>
 
 ### Interpretation
 
@@ -123,5 +123,6 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **deep learning models such as convolutional autoencoders can be used for privacy-preserving analysis of smart home time-series data**.****
+
 
 
