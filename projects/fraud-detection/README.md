@@ -116,12 +116,6 @@ In federated learning:
 - updates are aggregated
 -  The global model is updated
 
-
-- The dataset is split into multiple clients
-- Each client is trained individually
-- updates are aggregated
-- The global model is updated
-
 This is similar to how financial systems are designed in the real world. Data is not sharable among institutions.
 
 ---
@@ -184,6 +178,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
