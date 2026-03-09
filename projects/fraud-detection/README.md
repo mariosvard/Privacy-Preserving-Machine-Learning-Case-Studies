@@ -8,7 +8,6 @@ This project aims to examine techniques in fraud detection, as well as technique
 
 These technologies allow machine learning models to be trained without compromising financial data.
 
-
 ---
 
 ## Objective
@@ -103,9 +102,22 @@ The performance of the models with and without Differential Privacy is compared 
 
 ### Federated Learning Simulation
 
-The notebook simulates **federated learning rounds**, where multiple nodes collaboratively train a model without sharing raw data.
+The notebook also includes the simulation of the Federated Learning rounds.
 
-This approach is useful in environments where data cannot be centrally stored.
+In federated learning:
+
+- nodes are trained individually
+- raw data is not transmitted
+- only updates are transmitted
+
+
+**Workflow**
+
+
+
+
+
+
 
 ---
 
@@ -167,6 +179,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
