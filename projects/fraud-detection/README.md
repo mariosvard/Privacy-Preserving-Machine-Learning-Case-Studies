@@ -60,13 +60,13 @@ After downloading, place the data within the project directory before running th
 
 ## Methods Explored
 
-The notebook explores several modern machine learning and privacy techniques:
+The notebook employs a variety of state-of-the-art privacy-preserving machine learning techniques.
 
-### Generative Adversarial Networks (GAN)
+**Generative Adversarial Networks (GANs)**
 
-GANs are used to generate **synthetic financial data** that preserves statistical properties of the original dataset.
+Generative Adversarial Networks are employed for generating synthetic financial transactional data.
 
-This helps address:
+A GAN is composed of two competing artificial intelligence models:
 
 - class imbalance
 - privacy concerns
@@ -148,6 +148,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
