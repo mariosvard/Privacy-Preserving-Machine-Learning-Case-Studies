@@ -74,8 +74,10 @@ A GAN is composed of two competing artificial intelligence models:
 
 As a result of the competition between the two models, the generator is trained to produce synthetic data that resembles the statistical properties of the original dataset.
 
-
 ---
+
+**Benefits**
+
 
 ### Differential Privacy
 
@@ -151,6 +153,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
