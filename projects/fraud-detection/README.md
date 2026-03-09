@@ -145,25 +145,24 @@ Accuracy plot over multiple federated learning rounds.
 <div align="center"> <img src="Federated_Learning.png" width="500"/> </div>
 
 
-## Notebook
+## Notebook Implementation
 
-The full implementation is provided in:
+The entire implementation is available in the following notebook:
 
 `Fraud_Detection_from_kagglee2.ipynb`
 
 The notebook includes:
 
-- data preprocessing
+- Data preprocessing and normalization
 - GAN-based synthetic data generation
-- differential privacy training
-- federated learning simulation
-- visualization of model performance
+- Differential Privacy-based training
+- Federated learning simulation
 
 ---
 
 ## Technologies Used
 
-The project was implemented using:
+The project was built with the following technologies:
 
 - Python
 - Pandas
@@ -176,11 +175,15 @@ The project was implemented using:
 
 ---
 
-## Notes
+## Conclusion
 
-This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+The proposed project demonstrates how to effectively implement various privacy-preserving machine learning approaches in fraud detection scenarios with sensitive financial information.With the help of various machine learning approaches such as:
 
+- Synthetic Data Generation
+- Differential Privacy
+- Federated Learning
 
+it is possible to develop effective fraud detection models with guaranteed data privacy.
 
 
 
