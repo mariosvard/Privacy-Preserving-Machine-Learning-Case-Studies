@@ -77,22 +77,29 @@ As a result of the competition between the two models, the generator is trained 
 
 **Benefits**
 
-  
 - Class imbalance in fraud detection datasets is overcome
 - Data sharing is facilitated without the need for disclosing real financial information
 - Privacy-preserving analysis of the data is facilitated
-
-
 
 ---
 
 ### Differential Privacy
 
-The model is trained using **Differential Privacy (Opacus)** to protect sensitive information during training.
+The model is trained with the help of Differential Privacy with the help of the Opacus library.
 
-Differential privacy introduces noise into the training process to ensure that individual records cannot be reconstructed.
+Differential Privacy introduces noise into the entire training process so that no single transaction is identifiable.
 
 ---
+
+**Key Properties**
+
+- Individual transaction records are protected
+- Information leakage from the models is limited
+- Quantifiable privacy is ensured
+
+The performance of the models with and without Differential Privacy is compared in this project to assess the privacy-utility tradeoff.
+
+
 
 ### Federated Learning Simulation
 
@@ -160,6 +167,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
