@@ -6,6 +6,9 @@ This project aims to examine techniques in fraud detection, as well as technique
 *   Differential Privacy
 *   Federated Learning
 
+These technologies allow machine learning models to be trained without compromising financial data.
+
+
 ---
 
 ## Objective
@@ -130,6 +133,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
