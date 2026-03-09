@@ -91,7 +91,7 @@ Comparison of model accuracy with and without differential privacy.
 
 Training accuracy across multiple federated learning rounds.
 
-<div align="center"> <img src="federated_learning.png" width="500"/> </div>
+<div align="center"> <img src="Federated_Learning.png" width="500"/> </div>
 ---
 
 ## Notebook
@@ -128,6 +128,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
