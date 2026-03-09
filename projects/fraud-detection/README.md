@@ -84,7 +84,7 @@ Visualization of real data and GAN-generated synthetic samples.
 
 Comparison of model accuracy with and without differential privacy.
 
-![Differential Privacy Accuracy](figures/dp_accuracy.png)
+![Differential Privacy Accuracy](dp_accuracy.png)
 
 ---
 
@@ -130,4 +130,5 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
