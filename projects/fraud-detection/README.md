@@ -69,7 +69,9 @@ Generative Adversarial Networks are employed for generating synthetic financial 
 A GAN is composed of two competing artificial intelligence models:
 
 - **Generator**: Used for generating synthetic data
--**Discriminator**: Used for distinguishing between real and synthetic data
+
+- **Discriminator**: Used for distinguishing between real and synthetic data
+
 ---
 
 ### Differential Privacy
@@ -146,6 +148,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
