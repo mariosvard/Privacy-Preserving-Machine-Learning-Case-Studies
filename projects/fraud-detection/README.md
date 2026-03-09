@@ -126,12 +126,12 @@ This is similar to how financial systems are designed in the real world. Data is
 
 <div align="center"> <img src="real_vs_synthetic.png" width="500"/> </div>
 
----
+
 
 
 
 <div align="center"> <img src="differential_privacy.png" width="500"/> </div>
----
+
 
 
 
@@ -172,6 +172,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
