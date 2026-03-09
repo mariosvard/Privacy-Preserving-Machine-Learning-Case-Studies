@@ -1,8 +1,6 @@
 # Privacy-Preserving Fraud Detection
 
-This project aims to examine techniques in fraud detection, as well as techniques in privacy-preserving machine learning. The main purpose of this project is to show how these latest technologies in privacy can be used in analyzing financial transaction data.
-
-Technologies to be used in this project:
+This project aims to examine techniques in fraud detection, as well as techniques in privacy-preserving machine learning. The main purpose of this project is to show how these latest technologies in privacy can be used in analyzing financial transaction data.Technologies to be used in this project:
 
 *   Generative Adversarial Networks (GANs)
 *   Differential Privacy
@@ -132,6 +130,7 @@ The project was implemented using:
 ## Notes
 
 This project demonstrates how **privacy-preserving machine learning techniques** can be applied in fraud detection scenarios where sensitive financial data must remain protected.
+
 
 
 
